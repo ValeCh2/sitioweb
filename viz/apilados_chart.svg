@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 28.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1329.4 855.4" style="enable-background:new 0 0 1329.4 855.4;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#23171B;}
+	.st1{fill:#9E0142;}
+	.st2{fill:none;stroke:#000000;}
+	.st3{font-family:'ArialMT';}
+	.st4{font-size:12.5227px;}
+	.st5{fill:#7B7B7B;}
+	.st6{font-family:'Arial-BoldMT';}
+	.st7{font-size:20.9174px;}
+	.st8{font-size:15.0273px;}
+</style>
+<g id="Aprueban">
+	<rect x="228.3" y="770.5" class="st0" width="131.8" height="17.5"/>
+	<rect x="95.2" y="729.6" class="st0" width="131.8" height="58.4"/>
+	<rect x="361.3" y="723.7" class="st0" width="131.8" height="64.3"/>
+	<rect x="494.4" y="671.1" class="st0" width="131.8" height="116.9"/>
+	<rect x="627.5" y="466.6" class="st0" width="131.8" height="321.4"/>
+	<rect x="760.6" y="560.1" class="st0" width="131.8" height="227.9"/>
+	<rect x="893.7" y="384.8" class="st0" width="131.8" height="403.2"/>
+</g>
+<g id="Reprueban">
+	<rect x="228.3" y="618.5" class="st1" width="131.8" height="151.9"/>
+	<rect x="95.2" y="530.9" class="st1" width="131.8" height="198.7"/>
+	<rect x="361.3" y="378.9" class="st1" width="131.8" height="344.8"/>
+	<rect x="494.4" y="396.5" class="st1" width="131.8" height="274.7"/>
+	<rect x="627.5" y="215.3" class="st1" width="131.8" height="251.3"/>
+	<rect x="760.6" y="437.4" class="st1" width="131.8" height="122.7"/>
+	<rect x="893.7" y="86.7" class="st1" width="131.8" height="298"/>
+</g>
+<g id="xAxis" transform="translate(0,560)">
+	<path class="st2" d="M94.5,228.6h932.9"/>
+	<g transform="translate(53.642282650325555,0)">
+		<line class="st2" x1="107.4" y1="228" x2="107.4" y2="235.5"/>
+		<text transform="matrix(1 0 0 1 87.9368 248.1639)" class="st3 st4">2021-1</text>
+	</g>
+	<g transform="translate(159.92818843355036,0)">
+		<line class="st2" x1="134.2" y1="228" x2="134.2" y2="235.5"/>
+		<text transform="matrix(1 0 0 1 114.7501 248.1639)" class="st3 st4">2021-2</text>
+	</g>
+	<g transform="translate(266.21409421677515,0)">
+		<line class="st2" x1="161.1" y1="228" x2="161.1" y2="235.5"/>
+		<text transform="matrix(1 0 0 1 141.5633 248.1639)" class="st3 st4">2022-2</text>
+	</g>
+	<g transform="translate(372.5,0)">
+		<line class="st2" x1="187.9" y1="228" x2="187.9" y2="235.5"/>
+		<text transform="matrix(1 0 0 1 168.376 248.1639)" class="st3 st4">2023-1</text>
+	</g>
+	<g transform="translate(478.7859057832248,0)">
+		<line class="st2" x1="214.7" y1="228" x2="214.7" y2="235.5"/>
+		<text transform="matrix(1 0 0 1 195.1887 248.1639)" class="st3 st4">2023-2</text>
+	</g>
+	<g transform="translate(585.0718115664496,0)">
+		<line class="st2" x1="241.5" y1="228" x2="241.5" y2="235.5"/>
+		<text transform="matrix(1 0 0 1 222.0019 248.1639)" class="st3 st4">2024-1</text>
+	</g>
+	<g transform="translate(691.3577173496744,0)">
+		<line class="st2" x1="268.3" y1="228" x2="268.3" y2="235.5"/>
+		<text transform="matrix(1 0 0 1 248.8151 248.1639)" class="st3 st4">2024-2</text>
+	</g>
+</g>
+<g id="yAxis">
+	<path class="st2" d="M94.5,788.6V87.4"/>
+	<g transform="translate(0,560.5)">
+		<line class="st2" x1="93.9" y1="228.1" x2="86.4" y2="228.1"/>
+		<text transform="matrix(1 0 0 1 75.666 232.1356)" class="st3 st4">0</text>
+	</g>
+	<g transform="translate(0,513.8333333333333)">
+		<line class="st2" x1="93.9" y1="216.4" x2="86.4" y2="216.4"/>
+		<text transform="matrix(1 0 0 1 68.7012 220.3628)" class="st3 st4">10</text>
+	</g>
+	<g transform="translate(0,467.1666666666667)">
+		<line class="st2" x1="93.9" y1="204.6" x2="86.4" y2="204.6"/>
+		<text transform="matrix(1 0 0 1 68.7012 208.59)" class="st3 st4">20</text>
+	</g>
+	<g transform="translate(0,420.5)">
+		<line class="st2" x1="93.9" y1="192.8" x2="86.4" y2="192.8"/>
+		<text transform="matrix(1 0 0 1 68.7012 196.8182)" class="st3 st4">30</text>
+	</g>
+	<g transform="translate(0,373.83333333333337)">
+		<line class="st2" x1="93.9" y1="181" x2="86.4" y2="181"/>
+		<text transform="matrix(1 0 0 1 68.7012 185.0449)" class="st3 st4">40</text>
+	</g>
+	<g transform="translate(0,327.16666666666663)">
+		<line class="st2" x1="93.9" y1="169.3" x2="86.4" y2="169.3"/>
+		<text transform="matrix(1 0 0 1 68.7012 173.2722)" class="st3 st4">50</text>
+	</g>
+	<g transform="translate(0,280.5)">
+		<line class="st2" x1="93.9" y1="157.5" x2="86.4" y2="157.5"/>
+		<text transform="matrix(1 0 0 1 68.7012 161.4999)" class="st3 st4">60</text>
+	</g>
+	<g transform="translate(0,233.83333333333331)">
+		<line class="st2" x1="93.9" y1="145.7" x2="86.4" y2="145.7"/>
+		<text transform="matrix(1 0 0 1 68.7012 149.7271)" class="st3 st4">70</text>
+	</g>
+	<g transform="translate(0,187.16666666666669)">
+		<line class="st2" x1="93.9" y1="133.9" x2="86.4" y2="133.9"/>
+		<text transform="matrix(1 0 0 1 68.7012 137.9543)" class="st3 st4">80</text>
+	</g>
+	<g transform="translate(0,140.5)">
+		<line class="st2" x1="93.9" y1="122.2" x2="86.4" y2="122.2"/>
+		<text transform="matrix(1 0 0 1 68.7012 126.1815)" class="st3 st4">90</text>
+	</g>
+	<g transform="translate(0,93.83333333333331)">
+		<line class="st2" x1="93.9" y1="110.4" x2="86.4" y2="110.4"/>
+		<text transform="matrix(1 0 0 1 61.7368 114.4087)" class="st3 st4">100</text>
+	</g>
+	<g transform="translate(0,47.166666666666686)">
+		<line class="st2" x1="93.9" y1="98.6" x2="86.4" y2="98.6"/>
+		<text transform="matrix(1 0 0 1 62.6665 102.6359)" class="st3 st4">110</text>
+	</g>
+	<g transform="translate(0,0.5)">
+		<line class="st2" x1="93.9" y1="86.9" x2="86.4" y2="86.9"/>
+		<text transform="matrix(1 0 0 1 61.7368 90.8632)" class="st3 st4">120</text>
+	</g>
+</g>
+<text transform="matrix(1 0 0 1 1045.9854 805.9467)" class="st5 st6 st7">Semestre</text>
+<text transform="matrix(1 0 0 1 93.9007 58.3415)" class="st5 st6 st7">Inscripciones</text>
+<text transform="matrix(1 0 0 1 1162.8405 305.4557)" class="st6 st8">Reprobados</text>
+<text transform="matrix(1 0 0 1 1162.8405 229.2187)" class="st6 st8">Aprobados</text>
+<rect x="1097.1" y="199.2" class="st1" width="47.1" height="47.1"/>
+<rect x="1097.1" y="274.1" class="st0" width="47.1" height="47.1"/>
+</svg>

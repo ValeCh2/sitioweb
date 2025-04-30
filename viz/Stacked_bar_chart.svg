@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Capa_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 1480 739.21">
+  <!-- Generator: Adobe Illustrator 29.4.0, SVG Export Plug-In . SVG Version: 2.1.0 Build 152)  -->
+  <defs>
+    <style>
+      .st0 {
+        fill: none;
+        stroke: #000;
+      }
+
+      .st1 {
+        fill: #fff;
+      }
+
+      .st2 {
+        fill: #c1121f;
+      }
+
+      .st3 {
+        font-family: HelveticaNowDisplay-Regular, 'Helvetica Now Display';
+      }
+
+      .st3, .st4, .st5, .st6 {
+        isolation: isolate;
+      }
+
+      .st3, .st6 {
+        font-size: 10px;
+      }
+
+      .st7 {
+        fill: #669bbc;
+      }
+
+      .st8 {
+        fill: #780000;
+      }
+
+      .st9 {
+        fill: #003049;
+      }
+
+      .st5 {
+        fill: #7b7b7b;
+        font-family: Arial-BoldMT, Arial;
+        font-size: 12px;
+        font-weight: 700;
+      }
+
+      .st6 {
+        font-family: ArialMT, Arial;
+      }
+    </style>
+  </defs>
+  <rect id="background" class="st1" x="-166.57" y="1223.54" width="1480" height="739.21"/>
+  <g>
+    <rect class="st9" x="72.53" y="564" width="130.09" height="136"/>
+    <rect class="st7" x="72.53" y="553.54" width="130.09" height="10.46"/>
+    <polygon class="st8" points="72.53 553.54 202.62 553.54 202.62 553.54 72.53 553.54"/>
+    <rect class="st2" x="72.53" y="548.31" width="130.09" height="5.23"/>
+  </g>
+  <g>
+    <rect class="st9" x="246.67" y="522.15" width="130.09" height="177.85"/>
+    <rect class="st7" x="246.67" y="496" width="130.09" height="26.15"/>
+    <rect class="st8" x="246.67" y="469.85" width="130.09" height="26.15"/>
+    <polygon class="st2" points="246.67 469.85 376.76 469.85 376.76 469.85 246.67 469.85"/>
+  </g>
+  <g>
+    <rect class="st9" x="420.81" y="391.38" width="130.09" height="308.62"/>
+    <rect class="st7" x="420.81" y="354.77" width="130.09" height="36.62"/>
+    <rect class="st8" x="420.81" y="333.85" width="130.09" height="20.92"/>
+    <polygon class="st2" points="420.81 333.85 550.9 333.85 550.9 333.85 420.81 333.85"/>
+  </g>
+  <g>
+    <rect class="st9" x="594.95" y="454.15" width="130.09" height="245.85"/>
+    <rect class="st7" x="594.95" y="407.08" width="130.09" height="47.08"/>
+    <rect class="st8" x="594.95" y="370.46" width="130.09" height="36.62"/>
+    <rect class="st2" x="594.95" y="344.31" width="130.09" height="26.15"/>
+  </g>
+  <g>
+    <rect class="st9" x="769.1" y="475.08" width="130.09" height="224.92"/>
+    <rect class="st7" x="769.1" y="344.31" width="130.09" height="130.77"/>
+    <rect class="st8" x="769.1" y="224" width="130.09" height="120.31"/>
+    <rect class="st2" x="769.1" y="187.38" width="130.09" height="36.62"/>
+  </g>
+  <g>
+    <rect class="st9" x="943.24" y="590.15" width="130.09" height="109.85"/>
+    <rect class="st7" x="943.24" y="480.31" width="130.09" height="109.85"/>
+    <rect class="st8" x="943.24" y="407.08" width="130.09" height="73.23"/>
+    <rect class="st2" x="943.24" y="386.15" width="130.09" height="20.92"/>
+  </g>
+  <g>
+    <rect class="st9" x="1117.38" y="433.23" width="130.09" height="266.77"/>
+    <rect class="st7" x="1117.38" y="260.62" width="130.09" height="172.62"/>
+    <rect class="st8" x="1117.38" y="108.92" width="130.09" height="151.69"/>
+    <rect class="st2" x="1117.38" y="67.08" width="130.09" height="41.85"/>
+  </g>
+  <g id="xAxis">
+    <path class="st0" d="M50,700h1220"/>
+    <g>
+      <line class="st0" x1="137.57" y1="700" x2="137.57" y2="706"/>
+      <text class="st3" transform="translate(122.84 716.1)"><tspan x="0" y="0">2021-2</tspan></text>
+    </g>
+    <g>
+      <line class="st0" x1="311.71" y1="700" x2="311.71" y2="706"/>
+      <text class="st3" transform="translate(297.48 716.1)"><tspan x="0" y="0">2022-1</tspan></text>
+    </g>
+    <g>
+      <line class="st0" x1="485.86" y1="700" x2="485.86" y2="706"/>
+      <text class="st3" transform="translate(470.27 716.1)"><tspan x="0" y="0">2022-2</tspan></text>
+    </g>
+    <g>
+      <line class="st0" x1="660" y1="700" x2="660" y2="706"/>
+      <text class="st3" transform="translate(645.64 716.1)"><tspan x="0" y="0">2023-1</tspan></text>
+    </g>
+    <g>
+      <line class="st0" x1="834.14" y1="700" x2="834.14" y2="706"/>
+      <text class="st3" transform="translate(818.43 716.1)"><tspan x="0" y="0">2023-2</tspan></text>
+    </g>
+    <g>
+      <line class="st0" x1="1008.29" y1="700" x2="1008.29" y2="706"/>
+      <text class="st3" transform="translate(994.09 716.1)"><tspan x="0" y="0">2024-1</tspan></text>
+    </g>
+    <g>
+      <line class="st0" x1="1182.43" y1="700" x2="1182.43" y2="706"/>
+      <text class="st3" transform="translate(1166.87 716.1)"><tspan x="0" y="0">2024-2</tspan></text>
+    </g>
+  </g>
+  <g id="yAxis">
+    <path class="st0" d="M50,700V20"/>
+    <g>
+      <line class="st0" x1="50" y1="700" x2="44" y2="700"/>
+      <text class="st3" transform="translate(34.84 703.2)"><tspan x="0" y="0">0</tspan></text>
+    </g>
+    <g>
+      <line class="st0" x1="50" y1="647.69" x2="44" y2="647.69"/>
+      <text class="st3" transform="translate(31.27 650.89)"><tspan x="0" y="0">10</tspan></text>
+    </g>
+    <g>
+      <line class="st0" x1="50" y1="595.38" x2="44" y2="595.38"/>
+      <text class="st3" transform="translate(29.51 598.58)"><tspan x="0" y="0">20</tspan></text>
+    </g>
+    <g>
+      <line class="st0" x1="50" y1="543.08" x2="44" y2="543.08"/>
+      <text class="st3" transform="translate(29.2 546.28)"><tspan x="0" y="0">30</tspan></text>
+    </g>
+    <g>
+      <line class="st0" x1="50" y1="490.77" x2="44" y2="490.77"/>
+      <text class="st3" transform="translate(29.12 493.97)"><tspan x="0" y="0">40</tspan></text>
+    </g>
+    <g>
+      <line class="st0" x1="50" y1="438.46" x2="44" y2="438.46"/>
+      <text class="st3" transform="translate(29.1 441.66)"><tspan x="0" y="0">50</tspan></text>
+    </g>
+    <g>
+      <line class="st0" x1="50" y1="386.15" x2="44" y2="386.15"/>
+      <text class="st3" transform="translate(28.91 389.35)"><tspan x="0" y="0">60</tspan></text>
+    </g>
+    <g>
+      <line class="st0" x1="50" y1="333.85" x2="44" y2="333.85"/>
+      <text class="st3" transform="translate(30.47 337.05)"><tspan x="0" y="0">70</tspan></text>
+    </g>
+    <g>
+      <line class="st0" x1="50" y1="281.54" x2="44" y2="281.54"/>
+      <text class="st3" transform="translate(29.03 284.74)"><tspan x="0" y="0">80</tspan></text>
+    </g>
+    <g>
+      <line class="st0" x1="50" y1="229.23" x2="44" y2="229.23"/>
+      <text class="st3" transform="translate(28.91 232.43)"><tspan x="0" y="0">90</tspan></text>
+    </g>
+    <g>
+      <line class="st0" x1="50" y1="176.92" x2="44" y2="176.92"/>
+      <text class="st3" transform="translate(25.21 180.12)"><tspan x="0" y="0">100</tspan></text>
+    </g>
+    <g>
+      <line class="st0" x1="50" y1="124.62" x2="44" y2="124.62"/>
+      <text class="st3" transform="translate(27.7 127.82)"><tspan x="0" y="0">110</tspan></text>
+    </g>
+    <g>
+      <line class="st0" x1="50" y1="72.31" x2="44" y2="72.31"/>
+      <text class="st3" transform="translate(25.94 75.51)"><tspan x="0" y="0">120</tspan></text>
+    </g>
+    <g>
+      <line class="st0" x1="50" y1="20" x2="44" y2="20"/>
+      <text class="st3" transform="translate(25.53 23.2)"><tspan x="0" y="0">130</tspan></text>
+    </g>
+  </g>
+  <text class="st5" transform="translate(1284.98 708.82)"><tspan x="0" y="0">Semestres</tspan></text>
+  <text class="st5" transform="translate(60.64 23.2)"><tspan x="0" y="0">Inscripciones</tspan></text>
+  <rect class="st2" x="1295.79" y="69.92" width="15" height="15"/>
+  <text class="st6" transform="translate(1315.79 82.42)"><tspan x="0" y="0">Aprobados Diseño</tspan></text>
+  <rect class="st8" x="1295.79" y="90.92" width="15" height="15"/>
+  <text class="st6" transform="translate(1315.79 103.42)"><tspan x="0" y="0">Aprobados I y S</tspan></text>
+  <g>
+    <rect class="st9" x="1295.79" y="111.92" width="15" height="15"/>
+    <g class="st4">
+      <text class="st6" transform="translate(1315.79 124.42)"><tspan x="0" y="0">Reprobados</tspan></text>
+    </g>
+  </g>
+  <rect class="st7" x="1295.79" y="132.92" width="15" height="15"/>
+  <text class="st6" transform="translate(1315.79 145.42)"><tspan x="0" y="0">Aprobados V y M</tspan></text>
+</svg>

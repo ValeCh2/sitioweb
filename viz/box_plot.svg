@@ -1,287 +1,272 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1805 670.32">
+<svg id="Capa_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 800 489.19">
+  <!-- Generator: Adobe Illustrator 29.4.0, SVG Export Plug-In . SVG Version: 2.1.0 Build 152)  -->
   <defs>
     <style>
-      .cls-1, .cls-2, .cls-3, .cls-4 {
+      .st0, .st1, .st2 {
         fill: #fff;
       }
 
-      .cls-1, .cls-5, .cls-6 {
-        stroke: #8c564b;
-      }
-
-      .cls-7, .cls-8, .cls-9, .cls-10, .cls-11, .cls-12, .cls-13, .cls-5, .cls-14, .cls-15, .cls-16, .cls-6, .cls-17, .cls-18 {
-        fill: none;
-      }
-
-      .cls-7, .cls-8, .cls-9, .cls-15, .cls-6, .cls-17 {
-        stroke-dasharray: 0 4;
-      }
-
-      .cls-7, .cls-12 {
-        stroke: #d62728;
-      }
-
-      .cls-8, .cls-4, .cls-16 {
+      .st0, .st3, .st4 {
         stroke: #2ca02c;
       }
 
-      .cls-9, .cls-2, .cls-13 {
+      .st5 {
+        stroke: #000;
+      }
+
+      .st5, .st6, .st7, .st8, .st3, .st9, .st10, .st11, .st12, .st13, .st14, .st15, .st16, .st4 {
+        fill: none;
+      }
+
+      .st6, .st7, .st3, .st11, .st12, .st16 {
+        stroke-dasharray: 4;
+      }
+
+      .st6, .st10 {
+        stroke: #1f77b4;
+      }
+
+      .st7, .st14 {
+        stroke: #d62728;
+      }
+
+      .st8, .st1, .st16 {
         stroke: #ff7f0e;
       }
 
-      .cls-10, .cls-15 {
-        stroke: #9467bd;
+      .st17 {
+        font-family: HelveticaNowDisplay-Regular, 'Helvetica Now Display';
       }
 
-      .cls-11 {
-        stroke: #fff;
+      .st17, .st18, .st19 {
+        isolation: isolate;
       }
 
-      .cls-19 {
+      .st17, .st19 {
+        font-size: 10px;
+      }
+
+      .st20 {
         fill: #8c564b;
       }
 
-      .cls-19, .cls-20, .cls-3, .cls-21, .cls-22, .cls-23, .cls-24 {
-        stroke-width: 0px;
-      }
-
-      .cls-20 {
+      .st21 {
         fill: #2ca02c;
       }
 
-      .cls-25 {
+      .st9 {
+        stroke: #fff;
+      }
+
+      .st22 {
+        fill: #d62728;
+      }
+
+      .st11, .st2, .st15 {
+        stroke: #8c564b;
+      }
+
+      .st18 {
         fill: #7b7b7b;
         font-family: Arial-BoldMT, Arial;
         font-size: 12px;
         font-weight: 700;
       }
 
-      .cls-25, .cls-26 {
-        isolation: isolate;
+      .st12, .st13 {
+        stroke: #9467bd;
       }
 
-      .cls-21 {
-        fill: #ff7f0e;
+      .st19 {
+        font-family: ArialMT, Arial;
       }
 
-      .cls-22 {
-        fill: #d62728;
-      }
-
-      .cls-23 {
-        fill: #9467bd;
-      }
-
-      .cls-24 {
+      .st23 {
         fill: #1f77b4;
       }
 
-      .cls-27 {
-        letter-spacing: -.02em;
+      .st24 {
+        fill: #9467bd;
       }
 
-      .cls-26 {
-        font-family: ArialMT, Arial;
-        font-size: 10px;
-      }
-
-      .cls-14 {
-        stroke: #000;
-      }
-
-      .cls-17, .cls-18 {
-        stroke: #1f77b4;
+      .st25 {
+        fill: #ff7f0e;
       }
     </style>
   </defs>
-  <g id="Layer_1-2" data-name="Layer 1">
+  <path class="st5" d="M44,414.6h6V54.6h-6"/>
+  <g>
+    <line class="st5" x1="50" y1="414.6" x2="44" y2="414.6"/>
+    <text class="st17" transform="translate(27.81 417.8)"><tspan x="0" y="0">4.0</tspan></text>
+  </g>
+  <g>
+    <line class="st5" x1="50" y1="390.6" x2="44" y2="390.6"/>
+    <text class="st17" transform="translate(28.19 393.8)"><tspan x="0" y="0">4.2</tspan></text>
+  </g>
+  <g>
+    <line class="st5" x1="50" y1="366.6" x2="44" y2="366.6"/>
+    <text class="st17" transform="translate(28.05 369.8)"><tspan x="0" y="0">4.4</tspan></text>
+  </g>
+  <g>
+    <line class="st5" x1="50" y1="342.6" x2="44" y2="342.6"/>
+    <text class="st17" transform="translate(27.94 345.8)"><tspan x="0" y="0">4.6</tspan></text>
+  </g>
+  <g>
+    <line class="st5" x1="50" y1="318.6" x2="44" y2="318.6"/>
+    <text class="st17" transform="translate(27.71 321.8)"><tspan x="0" y="0">4.8</tspan></text>
+  </g>
+  <g>
+    <line class="st5" x1="50" y1="294.6" x2="44" y2="294.6"/>
+    <text class="st17" transform="translate(27.94 297.8)"><tspan x="0" y="0">5.0</tspan></text>
+  </g>
+  <g>
+    <line class="st5" x1="50" y1="270.6" x2="44" y2="270.6"/>
+    <text class="st17" transform="translate(28.32 273.8)"><tspan x="0" y="0">5.2</tspan></text>
+  </g>
+  <g>
+    <line class="st5" x1="50" y1="246.6" x2="44" y2="246.6"/>
+    <text class="st17" transform="translate(28.18 249.8)"><tspan x="0" y="0">5.4</tspan></text>
+  </g>
+  <g>
+    <line class="st5" x1="50" y1="222.6" x2="44" y2="222.6"/>
+    <text class="st17" transform="translate(28.07 225.8)"><tspan x="0" y="0">5.6</tspan></text>
+  </g>
+  <g>
+    <line class="st5" x1="50" y1="198.6" x2="44" y2="198.6"/>
+    <text class="st17" transform="translate(27.84 201.8)"><tspan x="0" y="0">5.8</tspan></text>
+  </g>
+  <g>
+    <line class="st5" x1="50" y1="174.6" x2="44" y2="174.6"/>
+    <text class="st17" transform="translate(27.7 177.8)"><tspan x="0" y="0">6.0</tspan></text>
+  </g>
+  <g>
+    <line class="st5" x1="50" y1="150.6" x2="44" y2="150.6"/>
+    <text class="st17" transform="translate(28.08 153.8)"><tspan x="0" y="0">6.2</tspan></text>
+  </g>
+  <g>
+    <line class="st5" x1="50" y1="126.6" x2="44" y2="126.6"/>
+    <text class="st17" transform="translate(27.94 129.8)"><tspan x="0" y="0">6.4</tspan></text>
+  </g>
+  <g>
+    <line class="st5" x1="50" y1="102.6" x2="44" y2="102.6"/>
+    <text class="st17" transform="translate(27.83 105.8)"><tspan x="0" y="0">6.6</tspan></text>
+  </g>
+  <g>
+    <line class="st5" x1="50" y1="78.6" x2="44" y2="78.6"/>
+    <text class="st17" transform="translate(27.6 81.8)"><tspan x="0" y="0">6.8</tspan></text>
+  </g>
+  <g>
+    <line class="st5" x1="50" y1="54.6" x2="44" y2="54.6"/>
+    <text class="st17" transform="translate(29.46 57.8)"><tspan x="0" y="0">7.0</tspan></text>
+  </g>
+  <text class="st18" transform="translate(23.13 38.57)"><tspan x="0" y="0">Nota proyecto</tspan></text>
+  <path class="st5" d="M50,420.6v-6h740v6"/>
+  <line class="st5" x1="113" y1="414.6" x2="113" y2="420.6"/>
+  <text class="st17" transform="translate(90.3 433.51)"><tspan x="0" y="0">Diseñador</tspan></text>
+  <line class="st5" x1="236" y1="414.6" x2="236" y2="420.6"/>
+  <text class="st17" transform="translate(209.6 433.39)"><tspan x="0" y="0">Diseñadora</tspan></text>
+  <line class="st5" x1="359" y1="414.6" x2="359" y2="420.6"/>
+  <text class="st17" transform="translate(327.53 432.09)"><tspan x="0" y="0">Diseñador con </tspan><tspan x="6.32" y="12">mención en </tspan><tspan x="5.73" y="24">Visualidad y </tspan><tspan x="15.43" y="36">Medios</tspan></text>
+  <text class="st17" transform="translate(457.03 432.09)"><tspan x="0" y="0">Diseñadora </tspan><tspan x="-2.91" y="12">con mención </tspan><tspan x="-3.81" y="24">en Visualidad </tspan><tspan x="5.58" y="36">y Medios</tspan></text>
+  <text class="st17" transform="translate(572.53 432.09)"><tspan x="0" y="0">Diseñador con </tspan><tspan x="-7.93" y="12">mención Industrial </tspan><tspan x="8.26" y="24">y Servicios</tspan></text>
+  <text class="st17" transform="translate(693.92 432.09)"><tspan x="0" y="0">Diseñadora con </tspan><tspan x="-5.32" y="12">mención Industrial </tspan><tspan x="10.86" y="24">y Servicios</tspan></text>
+  <line class="st5" x1="482" y1="414.6" x2="482" y2="420.6"/>
+  <line class="st5" x1="605" y1="414.6" x2="605" y2="420.6"/>
+  <line class="st5" x1="728" y1="414.6" x2="728" y2="420.6"/>
+  <g id="boxplots">
     <g>
-      <rect id="background" class="cls-3" width="1805" height="670.32"/>
-      <path class="cls-14" d="M44,605.66h6.5V45.66h-6.5"/>
-      <g>
-        <line class="cls-14" x1="50" y1="605.66" x2="44" y2="605.66"/>
-        <text class="cls-26" transform="translate(27.1 608.86)"><tspan x="0" y="0">4.0</tspan></text>
-      </g>
-      <g>
-        <line class="cls-14" x1="50" y1="568.33" x2="44" y2="568.33"/>
-        <text class="cls-26" transform="translate(27.1 571.53)"><tspan x="0" y="0">4.2</tspan></text>
-      </g>
-      <g>
-        <line class="cls-14" x1="50" y1="530.99" x2="44" y2="530.99"/>
-        <text class="cls-26" transform="translate(27.1 534.19)"><tspan x="0" y="0">4.4</tspan></text>
-      </g>
-      <g>
-        <line class="cls-14" x1="50" y1="493.66" x2="44" y2="493.66"/>
-        <text class="cls-26" transform="translate(27.1 496.86)"><tspan x="0" y="0">4.6</tspan></text>
-      </g>
-      <g>
-        <line class="cls-14" x1="50" y1="456.33" x2="44" y2="456.33"/>
-        <text class="cls-26" transform="translate(27.1 459.53)"><tspan x="0" y="0">4.8</tspan></text>
-      </g>
-      <g>
-        <line class="cls-14" x1="50" y1="418.99" x2="44" y2="418.99"/>
-        <text class="cls-26" transform="translate(27.1 422.19)"><tspan x="0" y="0">5.0</tspan></text>
-      </g>
-      <g>
-        <line class="cls-14" x1="50" y1="381.66" x2="44" y2="381.66"/>
-        <text class="cls-26" transform="translate(27.1 384.86)"><tspan x="0" y="0">5.2</tspan></text>
-      </g>
-      <g>
-        <line class="cls-14" x1="50" y1="344.33" x2="44" y2="344.33"/>
-        <text class="cls-26" transform="translate(27.1 347.53)"><tspan x="0" y="0">5.4</tspan></text>
-      </g>
-      <g>
-        <line class="cls-14" x1="50" y1="306.99" x2="44" y2="306.99"/>
-        <text class="cls-26" transform="translate(27.1 310.19)"><tspan x="0" y="0">5.6</tspan></text>
-      </g>
-      <g>
-        <line class="cls-14" x1="50" y1="269.66" x2="44" y2="269.66"/>
-        <text class="cls-26" transform="translate(27.1 272.86)"><tspan x="0" y="0">5.8</tspan></text>
-      </g>
-      <g>
-        <line class="cls-14" x1="50" y1="232.33" x2="44" y2="232.33"/>
-        <text class="cls-26" transform="translate(27.1 235.53)"><tspan x="0" y="0">6.0</tspan></text>
-      </g>
-      <g>
-        <line class="cls-14" x1="50" y1="194.99" x2="44" y2="194.99"/>
-        <text class="cls-26" transform="translate(27.1 198.19)"><tspan x="0" y="0">6.2</tspan></text>
-      </g>
-      <g>
-        <line class="cls-14" x1="50" y1="157.66" x2="44" y2="157.66"/>
-        <text class="cls-26" transform="translate(27.1 160.86)"><tspan x="0" y="0">6.4</tspan></text>
-      </g>
-      <g>
-        <line class="cls-14" x1="50" y1="120.33" x2="44" y2="120.33"/>
-        <text class="cls-26" transform="translate(27.1 123.53)"><tspan x="0" y="0">6.6</tspan></text>
-      </g>
-      <g>
-        <line class="cls-14" x1="50" y1="82.99" x2="44" y2="82.99"/>
-        <text class="cls-26" transform="translate(27.1 86.19)"><tspan x="0" y="0">6.8</tspan></text>
-      </g>
-      <g>
-        <line class="cls-14" x1="50" y1="45.66" x2="44" y2="45.66"/>
-        <text class="cls-26" transform="translate(27.1 48.86)"><tspan x="0" y="0">7.0</tspan></text>
-      </g>
-      <text class="cls-25" transform="translate(27.57 26.04)"><tspan x="0" y="0">Nota proyecto</tspan></text>
-      <g id="x_axis" data-name="x axis">
-        <path class="cls-14" d="M50.5,611.16v-5.5h1745v5.5"/>
-        <g>
-          <line class="cls-14" x1="198.5" y1="605.16" x2="198.5" y2="611.16"/>
-          <text class="cls-26" transform="translate(90.47 621.26)"><tspan x="0" y="0">Diseñadora con mención en </tspan><tspan class="cls-27" x="127.3" y="0">V</tspan><tspan x="133.79" y="0">isualidad y Medios</tspan></text>
-        </g>
-        <g>
-          <line class="cls-14" x1="488.5" y1="605.16" x2="488.5" y2="611.16"/>
-          <text class="cls-26" transform="translate(462.93 621.26)"><tspan x="0" y="0">Diseñadora</tspan></text>
-        </g>
-        <g>
-          <line class="cls-14" x1="778.5" y1="605.16" x2="778.5" y2="611.16"/>
-          <text class="cls-26" transform="translate(678.73 621.26)"><tspan x="0" y="0">Diseñador con mención Industrial y Servicios</tspan></text>
-        </g>
-        <g>
-          <line class="cls-14" x1="1068.5" y1="605.16" x2="1068.5" y2="611.16"/>
-          <text class="cls-26" transform="translate(965.95 621.26)"><tspan x="0" y="0">Diseñadora con mención Industrial y Servicios</tspan></text>
-        </g>
-        <g>
-          <line class="cls-14" x1="1358.5" y1="605.16" x2="1358.5" y2="611.16"/>
-          <text class="cls-26" transform="translate(1253.25 621.26)"><tspan x="0" y="0">Diseñador con mención en </tspan><tspan class="cls-27" x="121.74" y="0">V</tspan><tspan x="128.23" y="0">isualidad y Medios</tspan></text>
-        </g>
-        <g>
-          <line class="cls-14" x1="1648.5" y1="605.16" x2="1648.5" y2="611.16"/>
-          <text class="cls-26" transform="translate(1625.71 621.26)"><tspan x="0" y="0">Diseñador</tspan></text>
-        </g>
-      </g>
-      <g id="boxplots">
-        <g>
-          <line class="cls-6" x1="198" y1="45.16" x2="198" y2="581.83"/>
-          <line class="cls-5" x1="188" y1="45.16" x2="208" y2="45.16"/>
-          <line class="cls-5" x1="188" y1="581.83" x2="208" y2="581.83"/>
-          <rect class="cls-19" x="188" y="138.49" width="20" height="177.33"/>
-          <line class="cls-11" x1="188" y1="231.83" x2="208" y2="231.83"/>
-          <circle class="cls-1" cx="198" cy="605.16" r="1"/>
-          <circle class="cls-1" cx="198" cy="605.16" r="1"/>
-        </g>
-        <g>
-          <line class="cls-7" x1="488" y1="45.16" x2="488" y2="511.83"/>
-          <line class="cls-12" x1="478" y1="45.16" x2="498" y2="45.16"/>
-          <line class="cls-12" x1="478" y1="511.83" x2="498" y2="511.83"/>
-          <rect class="cls-22" x="478" y="110.49" width="20" height="186.67"/>
-          <line class="cls-11" x1="478" y1="231.83" x2="498" y2="231.83"/>
-        </g>
-        <g>
-          <line class="cls-9" x1="778" y1="87.16" x2="778" y2="423.16"/>
-          <line class="cls-13" x1="768" y1="87.16" x2="788" y2="87.16"/>
-          <line class="cls-13" x1="768" y1="423.16" x2="788" y2="423.16"/>
-          <rect class="cls-21" x="768" y="213.16" width="20" height="84"/>
-          <line class="cls-11" x1="768" y1="250.49" x2="788" y2="250.49"/>
-          <circle class="cls-2" cx="778" cy="511.83" r="1"/>
-          <circle class="cls-2" cx="778" cy="82.49" r="1"/>
-        </g>
-        <g>
-          <line class="cls-15" x1="1068" y1="45.16" x2="1068" y2="605.16"/>
-          <line class="cls-10" x1="1058" y1="45.16" x2="1078" y2="45.16"/>
-          <line class="cls-10" x1="1058" y1="605.16" x2="1078" y2="605.16"/>
-          <rect class="cls-23" x="1058" y="110.49" width="20" height="214.67"/>
-          <line class="cls-11" x1="1058" y1="231.83" x2="1078" y2="231.83"/>
-        </g>
-        <g>
-          <line class="cls-8" x1="1358" y1="138.49" x2="1358" y2="465.16"/>
-          <line class="cls-16" x1="1348" y1="138.49" x2="1368" y2="138.49"/>
-          <line class="cls-16" x1="1348" y1="465.16" x2="1368" y2="465.16"/>
-          <rect class="cls-20" x="1348" y="231.83" width="20" height="93.33"/>
-          <line class="cls-11" x1="1348" y1="269.16" x2="1368" y2="269.16"/>
-          <circle class="cls-4" cx="1358" cy="511.83" r="1"/>
-          <circle class="cls-4" cx="1358" cy="511.83" r="1"/>
-          <circle class="cls-4" cx="1358" cy="605.16" r="1"/>
-        </g>
-        <g>
-          <line class="cls-17" x1="1648" y1="45.16" x2="1648" y2="474.49"/>
-          <line class="cls-18" x1="1638" y1="45.16" x2="1658" y2="45.16"/>
-          <line class="cls-18" x1="1638" y1="474.49" x2="1658" y2="474.49"/>
-          <rect class="cls-24" x="1638" y="194.49" width="20" height="130.67"/>
-          <line class="cls-11" x1="1638" y1="231.83" x2="1658" y2="231.83"/>
-        </g>
-      </g>
-      <g>
-        <text class="cls-26" transform="translate(212 45.16)"><tspan x="0" y="0">7</tspan></text>
-        <text class="cls-26" transform="translate(212 581.83)"><tspan x="0" y="0">4.125</tspan></text>
-        <text class="cls-26" transform="translate(212 231.83)"><tspan x="0" y="0">6</tspan></text>
-        <text class="cls-26" transform="translate(164.54 315.83)"><tspan x="0" y="0">5.55</tspan></text>
-        <text class="cls-26" transform="translate(180.1 138.49)"><tspan x="0" y="0">6.5</tspan></text>
-      </g>
-      <g>
-        <text class="cls-26" transform="translate(502 45.16)"><tspan x="0" y="0">7</tspan></text>
-        <text class="cls-26" transform="translate(502 511.83)"><tspan x="0" y="0">4.5</tspan></text>
-        <text class="cls-26" transform="translate(502 231.83)"><tspan x="0" y="0">6</tspan></text>
-        <text class="cls-26" transform="translate(454.54 297.16)"><tspan x="0" y="0">5.65</tspan></text>
-        <text class="cls-26" transform="translate(464.54 110.49)"><tspan x="0" y="0">6.65</tspan></text>
-      </g>
-      <g>
-        <text class="cls-26" transform="translate(792 87.16)"><tspan x="0" y="0">6.774999999999999</tspan></text>
-        <text class="cls-26" transform="translate(792 423.16)"><tspan x="0" y="0">4.975000000000001</tspan></text>
-        <text class="cls-26" transform="translate(792 250.49)"><tspan x="0" y="0">5.9</tspan></text>
-        <text class="cls-26" transform="translate(744.54 297.16)"><tspan x="0" y="0">5.65</tspan></text>
-        <text class="cls-26" transform="translate(760.1 213.16)"><tspan x="0" y="0">6.1</tspan></text>
-      </g>
-      <g>
-        <text class="cls-26" transform="translate(1082 45.16)"><tspan x="0" y="0">7</tspan></text>
-        <text class="cls-26" transform="translate(1082 605.16)"><tspan x="0" y="0">4</tspan></text>
-        <text class="cls-26" transform="translate(1082 231.83)"><tspan x="0" y="0">6</tspan></text>
-        <text class="cls-26" transform="translate(1040.1 325.16)"><tspan x="0" y="0">5.5</tspan></text>
-        <text class="cls-26" transform="translate(1044.54 110.49)"><tspan x="0" y="0">6.65</tspan></text>
-      </g>
-      <g>
-        <text class="cls-26" transform="translate(1372 138.49)"><tspan x="0" y="0">6.5</tspan></text>
-        <text class="cls-26" transform="translate(1372 465.16)"><tspan x="0" y="0">4.75</tspan></text>
-        <text class="cls-26" transform="translate(1372 269.16)"><tspan x="0" y="0">5.8</tspan></text>
-        <text class="cls-26" transform="translate(1330.1 325.16)"><tspan x="0" y="0">5.5</tspan></text>
-        <text class="cls-26" transform="translate(1348.44 231.83)"><tspan x="0" y="0">6</tspan></text>
-      </g>
-      <text class="cls-26" transform="translate(1662 45.16)"><tspan x="0" y="0">7</tspan></text>
-      <text class="cls-26" transform="translate(1662 474.49)"><tspan x="0" y="0">4.7</tspan></text>
-      <text class="cls-26" transform="translate(1662 231.83)"><tspan x="0" y="0">6</tspan></text>
-      <text class="cls-26" transform="translate(1620.1 325.16)"><tspan x="0" y="0">5.5</tspan></text>
-      <text class="cls-26" transform="translate(1620.52 194.49)"><tspan x="0" y="0">6.2</tspan></text>
+      <line class="st6" x1="113" y1="54.6" x2="113" y2="330.6"/>
+      <line class="st10" x1="103" y1="54.6" x2="123" y2="54.6"/>
+      <line class="st10" x1="103" y1="330.6" x2="123" y2="330.6"/>
+      <rect class="st23" x="103" y="150.6" width="20" height="84"/>
+      <line class="st9" x1="103" y1="174.6" x2="123" y2="174.6"/>
+    </g>
+    <g>
+      <line class="st7" x1="236" y1="54.6" x2="236" y2="354.6"/>
+      <line class="st14" x1="226" y1="54.6" x2="246" y2="54.6"/>
+      <line class="st14" x1="226" y1="354.6" x2="246" y2="354.6"/>
+      <rect class="st22" x="226" y="96.6" width="20" height="120"/>
+      <line class="st9" x1="226" y1="174.6" x2="246" y2="174.6"/>
+    </g>
+    <g>
+      <line class="st3" x1="359" y1="114.6" x2="359" y2="324.6"/>
+      <line class="st4" x1="349" y1="114.6" x2="369" y2="114.6"/>
+      <line class="st4" x1="349" y1="324.6" x2="369" y2="324.6"/>
+      <rect class="st21" x="349" y="174.6" width="20" height="60"/>
+      <line class="st9" x1="349" y1="198.6" x2="369" y2="198.6"/>
+      <circle class="st0" cx="359" cy="354.6" r="1"/>
+      <circle class="st0" cx="359" cy="354.6" r="1"/>
+      <circle class="st0" cx="359" cy="414.6" r="1"/>
+    </g>
+    <g>
+      <line class="st11" x1="482" y1="54.6" x2="482" y2="399.6"/>
+      <line class="st15" x1="472" y1="54.6" x2="492" y2="54.6"/>
+      <line class="st15" x1="472" y1="399.6" x2="492" y2="399.6"/>
+      <rect class="st20" x="472" y="114.6" width="20" height="114"/>
+      <line class="st9" x1="472" y1="174.6" x2="492" y2="174.6"/>
+      <circle class="st2" cx="482" cy="414.6" r="1"/>
+      <circle class="st2" cx="482" cy="414.6" r="1"/>
+    </g>
+    <g>
+      <line class="st16" x1="605" y1="81.6" x2="605" y2="297.6"/>
+      <line class="st8" x1="595" y1="81.6" x2="615" y2="81.6"/>
+      <line class="st8" x1="595" y1="297.6" x2="615" y2="297.6"/>
+      <rect class="st25" x="595" y="162.6" width="20" height="54"/>
+      <line class="st9" x1="595" y1="186.6" x2="615" y2="186.6"/>
+      <circle class="st1" cx="605" cy="354.6" r="1"/>
+      <circle class="st1" cx="605" cy="78.6" r="1"/>
+    </g>
+    <g>
+      <line class="st12" x1="728" y1="54.6" x2="728" y2="414.6"/>
+      <line class="st13" x1="718" y1="54.6" x2="738" y2="54.6"/>
+      <line class="st13" x1="718" y1="414.6" x2="738" y2="414.6"/>
+      <rect class="st24" x="718" y="96.6" width="20" height="138"/>
+      <line class="st9" x1="718" y1="174.6" x2="738" y2="174.6"/>
+    </g>
+  </g>
+  <g id="boxplots1" data-name="boxplots">
+    <g>
+      <text class="st19" transform="translate(127 54.6)"><tspan x="0" y="0">7</tspan></text>
+      <text class="st19" transform="translate(127 330.6)"><tspan x="0" y="0">4.7</tspan></text>
+      <text class="st19" transform="translate(127 174.6)"><tspan x="0" y="0">6</tspan></text>
+      <text class="st19" transform="translate(85.1 234.6)"><tspan x="0" y="0">5.5</tspan></text>
+      <text class="st19" transform="translate(95.1 150.6)"><tspan x="0" y="0">6.2</tspan></text>
+    </g>
+    <g>
+      <text class="st19" transform="translate(250 54.6)"><tspan x="0" y="0">7</tspan></text>
+      <text class="st19" transform="translate(250 354.6)"><tspan x="0" y="0">4.5</tspan></text>
+      <text class="st19" transform="translate(250 174.6)"><tspan x="0" y="0">6</tspan></text>
+      <text class="st19" transform="translate(202.54 216.6)"><tspan x="0" y="0">5.65</tspan></text>
+      <text class="st19" transform="translate(212.54 96.6)"><tspan x="0" y="0">6.65</tspan></text>
+    </g>
+    <g>
+      <text class="st19" transform="translate(373 114.6)"><tspan x="0" y="0">6.5</tspan></text>
+      <text class="st19" transform="translate(373 324.6)"><tspan x="0" y="0">4.75</tspan></text>
+      <text class="st19" transform="translate(373 198.6)"><tspan x="0" y="0">5.8</tspan></text>
+      <text class="st19" transform="translate(331.1 234.6)"><tspan x="0" y="0">5.5</tspan></text>
+      <text class="st19" transform="translate(349.44 174.6)"><tspan x="0" y="0">6</tspan></text>
+    </g>
+    <g>
+      <text class="st19" transform="translate(496 54.6)"><tspan x="0" y="0">7</tspan></text>
+      <text class="st19" transform="translate(496 399.6)"><tspan x="0" y="0">4.125</tspan></text>
+      <text class="st19" transform="translate(496 174.6)"><tspan x="0" y="0">6</tspan></text>
+      <text class="st19" transform="translate(448.54 228.6)"><tspan x="0" y="0">5.55</tspan></text>
+      <text class="st19" transform="translate(464.1 114.6)"><tspan x="0" y="0">6.5</tspan></text>
+    </g>
+    <g>
+      <text class="st19" transform="translate(619 81.6)"><tspan x="0" y="0">6.77</tspan></text>
+      <text class="st19" transform="translate(619 297.6)"><tspan x="0" y="0">4.97</tspan></text>
+      <text class="st19" transform="translate(619 186.6)"><tspan x="0" y="0">5.9</tspan></text>
+      <text class="st19" transform="translate(571.54 216.6)"><tspan x="0" y="0">5.65</tspan></text>
+      <text class="st19" transform="translate(587.1 162.6)"><tspan x="0" y="0">6.1</tspan></text>
+    </g>
+    <g>
+      <text class="st19" transform="translate(742 54.6)"><tspan x="0" y="0">7</tspan></text>
+      <text class="st19" transform="translate(742 414.6)"><tspan x="0" y="0">4</tspan></text>
+      <text class="st19" transform="translate(742 174.6)"><tspan x="0" y="0">6</tspan></text>
+      <text class="st19" transform="translate(700.1 234.6)"><tspan x="0" y="0">5.5</tspan></text>
+      <text class="st19" transform="translate(703.73 96.6)"><tspan x="0" y="0">6.7</tspan></text>
     </g>
   </g>
 </svg>
